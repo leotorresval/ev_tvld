@@ -1,4 +1,7 @@
-Leonardo David
 Torres Valverde
+Leonardo David
+09999999999999
 Java, c#, python, javascript
 Mysql firebird, postgresql
+
+
