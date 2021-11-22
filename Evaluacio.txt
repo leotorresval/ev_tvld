@@ -1,2 +1,4 @@
 Leonardo David
 Torres Valverde
+Java, c#, python, javascript
+Mysql firebird, postgresql
